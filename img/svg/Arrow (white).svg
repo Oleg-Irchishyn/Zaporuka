@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="10px" viewBox="0 0 13 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home_1366" transform="translate(-1077.000000, -1498.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Second-screen" transform="translate(0.000000, 780.000000)">
+                <g id="About" transform="translate(113.000000, 118.000000)">
+                    <g id="Hover" transform="translate(760.000000, 359.000000)">
+                        <g id="button" transform="translate(76.000000, 238.000000)">
+                            <g id="noun_1055259_cc-copy-9" transform="translate(134.700000, 8.300000) rotate(-90.000000) translate(-134.700000, -8.300000) translate(130.200000, 1.800000)">
+                                <path d="M4.96390447,11.9415361 L8.75339,8.5491315 C9.06596237,8.26555881 9.06796605,7.81048073 8.82379369,7.52300688 C8.57962369,7.23553304 8.10177342,7.20129496 7.82082421,7.45116265 L5.20815974,9.79100688 L5.20815974,0.726947308 C5.20815974,0.325467692 4.89003342,0 4.49763342,0 C4.10520974,0 3.78710711,0.325467692 3.78710711,0.726947308 L3.78710711,9.79100688 L1.17443079,7.45116265 C0.893488685,7.20129496 0.422693948,7.24195419 0.171475527,7.52300688 C-0.0917271042,7.81743496 -0.0391481568,8.29938496 0.241865001,8.5491315 L4.03133869,11.9415361 C4.34188605,12.1797003 4.69208079,12.1669065 4.96390447,11.9415361 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

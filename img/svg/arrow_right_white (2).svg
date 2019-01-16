@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="10px" viewBox="0 0 15 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-form" transform="translate(-1043.000000, -142.000000)" fill="#333333" fill-rule="nonzero">
+            <g id="Hover" transform="translate(822.000000, 0.000000)">
+                <g id="Group" transform="translate(83.000000, 139.000000)">
+                    <path d="M145.964866,14.2683735 L149.755086,10.499035 C150.067719,10.1839542 150.069723,9.67831192 149.825504,9.35889654 C149.581286,9.03948115 149.103344,9.00143885 148.82234,9.27906962 L146.209169,11.8788965 L146.209169,1.80771923 C146.209169,1.36163077 145.890981,1 145.498505,1 C145.106005,1 144.787841,1.36163077 144.787841,1.80771923 L144.787841,11.8788965 L142.174658,9.27906962 C141.893662,9.00143885 141.422776,9.04661577 141.171509,9.35889654 C140.908255,9.68603885 140.960844,10.2215388 141.241912,10.499035 L145.03212,14.2683735 C145.342727,14.5330004 145.69299,14.518785 145.964866,14.2683735 Z" id="Shape" transform="translate(145.500000, 7.730775) rotate(-90.000000) translate(-145.500000, -7.730775) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
